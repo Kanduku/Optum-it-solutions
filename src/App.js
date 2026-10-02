@@ -16,7 +16,7 @@ export default function App() {
       fontFamily: "Inter, Arial, sans-serif",
       overflow: "hidden"
     }}>
-      <Header />
+      {/* <Header />
       <main>
         <Hero />
         <Services />
@@ -24,7 +24,7 @@ export default function App() {
         <WhyUs />
         <Contact />
       </main>
-      <Footer />
+      <Footer /> */}
     </div>
   );
 }
